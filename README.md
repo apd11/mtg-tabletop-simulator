@@ -94,4 +94,4 @@ Paste any decklist in MTGO/Arena format into the TestBootstrap Decklist field:
 - [Scryfall API](https://scryfall.com/docs/api) — Card data and artwork
 
 ## License
-MIT
+No License
